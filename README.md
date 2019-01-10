@@ -13,4 +13,4 @@
 ## Store the information regarding each job posting as one document in MongoDB. The total number of documents is 4000+.
 ## Explore the correlations among location, company, salary and job rating.
 ## Dig into job descriptions to identify the most seek-after skills.
-## Achieve data visulization through HTML, CSS, Javascript and Tableau.# Where-to-work-Project
+## Achieve data visulization through HTML, CSS, Javascript and Tableau.
