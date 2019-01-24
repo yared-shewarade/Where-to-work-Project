@@ -1,4 +1,4 @@
-# Data-Visualization-Project
+# Where to work Project
 ## Use Python to scrape data scientist job posting on Glassdoor among 10 major cities:
     - Phoenix
     - Portland
